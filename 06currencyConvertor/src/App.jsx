@@ -29,7 +29,7 @@ function App() {
     <div
         className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
         style={{
-            backgroundImage: `url('https://images.pexels.com/photos/3532540/pexels-photo-3532540.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')`,
+            backgroundImage: `url('https://media.gettyimages.com/id/1328782449/vector/crypto-market-increasing-background-illustration.jpg?s=2048x2048&w=gi&k=20&c=RbpsGa_a0lLz--MPrLvXkuEVQrqIpM5BkQRJGSpDvg8=i')`,
         }}
     >
         <div className="w-full">
